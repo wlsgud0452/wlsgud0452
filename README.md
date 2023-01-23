@@ -6,7 +6,7 @@
 |2014-2017|동일공업고등학교|디지털전자제어과|
 |2020-휴학(3학년2학기)|방송통신대학교|컴퓨터과학과|
 
---- 
+
 ## 💻Projects
 
   |Date|Project Name|Dev|Output|
@@ -19,7 +19,7 @@
 
 <img src =https://cdn-icons-png.flaticon.com/512/1384/1384060.png width = 20,m height = 20 > **My Youtube** [Click](https://www.youtube.com/channel/UCM-Cz3iJEL9M-JZHg1_-HrA)
 
----
+
 ## 📚Stacks
 <!-- Flutter -->
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white)
@@ -53,7 +53,7 @@
 
 
 
----
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wlsgud0452&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" width="400"/></p>
@@ -61,7 +61,7 @@
 </div>
 <br><br><br><br><br><br><br>
 
----
+
 ## 📚licenses
    정보처리 기능사<br>
    전자기기 기능사
