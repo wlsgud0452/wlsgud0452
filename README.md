@@ -1,9 +1,12 @@
+
 ## 📬 Education
+
 |PERIOD|SCHOOL|MAJOR|
 |------|------|------|
 |2014-2017|동일공업고등학교|디지털전자제어과|
 |2020-휴학(3학년2학기)|방송통신대학교|컴퓨터과학과|
- 
+
+--- 
 ## 💻Projects
 
   |Date|Project Name|Dev|Output|
@@ -14,7 +17,9 @@
   |2022.12|[Scheduler App Semi Project](link란)|Flutter, MySQL|App|
   |2023.01|[Flutter Project](https://github.com/wlsgud0452/cha_sa_jo)|Flutter, R, Firebase, Springboot, MySQL|App with ML|
 
+<img src =https://cdn-icons-png.flaticon.com/512/1384/1384060.png width = 20,m height = 20 > **My Youtube** [Click](https://www.youtube.com/channel/UCM-Cz3iJEL9M-JZHg1_-HrA)
 
+---
 ## 📚Stacks
 <!-- Flutter -->
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white)
@@ -46,7 +51,7 @@
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white)
 ![GoogleDocs](https://img.shields.io/badge/GoogleDocs-6DB33F?style=flat&logo=GoogleDocs&logoColor=white)<br><br><br>
 
-<img src =https://cdn-icons-png.flaticon.com/512/1384/1384060.png width = 20,m height = 20 > **My Youtube** [Click](https://www.youtube.com/channel/UCM-Cz3iJEL9M-JZHg1_-HrA)
+
 
 ---
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
@@ -56,7 +61,7 @@
 </div>
 <br><br><br><br><br><br><br>
 
-
+---
 ## 📚licenses
    정보처리 기능사<br>
    전자기기 기능사
