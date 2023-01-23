@@ -9,6 +9,8 @@
 
 ## 💻Projects
 
+<img src =https://cdn-icons-png.flaticon.com/512/1384/1384060.png width = 20,m height = 20 > **My Youtube** [Click](https://www.youtube.com/channel/UCM-Cz3iJEL9M-JZHg1_-HrA)
+
   |Date|Project Name|Dev|Output|
   |-----|-----|-----|-----|  
   |2022.11|[Web Project](https://github.com/wlsgud0452/Petmily_MVCpattern)|Java, MVC Pattern, MySQL|WEB|
@@ -17,7 +19,7 @@
   |2022.12|[Scheduler App Semi Project](link란)|Flutter, MySQL|App|
   |2023.01|[Flutter Project](https://github.com/wlsgud0452/cha_sa_jo)|Flutter, R, Firebase, Springboot, MySQL|App with ML|
 
-<img src =https://cdn-icons-png.flaticon.com/512/1384/1384060.png width = 20,m height = 20 > **My Youtube** [Click](https://www.youtube.com/channel/UCM-Cz3iJEL9M-JZHg1_-HrA)
+
 
 
 ## 📚Stacks
